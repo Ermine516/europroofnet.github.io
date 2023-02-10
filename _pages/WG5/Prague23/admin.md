@@ -1,99 +1,43 @@
 ---
-title: "Administration page for the WG6 meeting in Vienna in April 2023"
+title: "The Joint EuroProofNet Workshops on Practical Aspects of Machine Learning in Theorem Proving (PAMLTP) and Datasets Generation for Data-Deficient Domains (DG4D^3)"
 layout: single
-permalink: /wg6-vienna-admin/
+permalink: /Prague23/
 author_profile: true
 breadcrumbs: true
 ---
+will take place at the [Czech Institute of Informatics, Robotics and Cybernetics](https://www.ciirc.cvut.cz/cs/) (CIIRC CTU), Prague, Czech Republic on April 18-19 (**PAMLTP**) and April 19-20 (**DG4D^3**) organized by [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/) (CTU) and [David Cerna](https://www.cs.cas.cz/staff/dcerna) (CAS ICS), respectively.
 
-### at least 2 months before the meeting:
+The events are supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/) and will be co-located with a meeting of [WG5 of the action](https://europroofnet.github.io/wg5/), on Machine Learning in Proofs running through April 18-20.
 
-- [ ] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
+### Aims:
 
-- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
+*Practical Aspects of Machine Learning in Theorem Proving:*  Efficient implementation is the key to practical deployment of ML-based techniques,	especially in highly tuned systems like theorem provers, yet practical aspects are only rarely discussed. The workshop will provide an opportunity for practitioners in the area to share experiences with libraries, support tools, implementation tricks and discovered solutions.  
+We assume theorem proving to cover logics ranging from SAT and SMT, to first-order or even higher-order, including temporal, modal, or non-classical flavors, relying on saturation, the tableau methods, or tactical search in the ITP context among others, and with the ML part including supervised as well as reinforcement learning, not limited to deep learning.
 
-    * [ ] complete address:
-    * [ ] starting date and time:
-    * [ ] ending date and time:
 
-- [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+*Datasets Generation for Data-Deficient Domains:*  Investigations exploiting statistical guidance to advance SOTA performance in domains typically approached using purely symbolic methods are more prevalent than ever.  Consider the recent advancements in clause selection for Automated Theorem Proving.  Impressive as these results are, they strongly depend on the existence of a large corpus of theorem-proving tasks built by the community over the last few decades. Domains without this unified community effort cannot directly exploit current advancement without first developing datasets for the task. For example, guiding modern inductive synthesis systems. The workshop will provide an opportunity for researchers who developed, are currently developing, or planning to develop training data for a particular problem to present their work and discuss approaches, methodologies, and pitfalls.
 
-    * [ ] daily allowance: 100 euros
+### Format:
 
-- [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
+Both workshops solicit contributed talks backed up by an extended abstract of up to 1 page (excluding references) in the [Easychair format](https://easychair.org/publications/for_authors). The abstracts will be reviewed for relevance and quality and made public on the workshops’ web page. (The abstracts are considered non-archival.)  Participants with accepted abstracts will be given preference when applying for reimbursement (see below). The workshop deadlines are as follows:
 
-- [ ] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
+        Abstract submission:        March 10 AoE
+        Travel support application: March 10 AoE
+        Notification of acceptance: March 17
 
-- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
+ Please submit your abstract via email to the organizers:  
+*PAMLTP:* Martin Suda (<martin.suda@cvut.cz>)     
+*DG4D^3:* David Cerna (<dcerna@cs.cas.cz>)
 
-- [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
+### Optional Travel Support:
 
-- [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
+The travel and accommodation of a number of participants (approximately 15) will be supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/).
+If you want to be funded, please
+Check the [eligibility](https://europroofnet.github.io/eligibility) and [reimbursement](https://europroofnet.github.io/reimbursement-rules/) rules to know whether you can be funded.
+[Register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to EuroProofNet if not already done.
+Fill in the [following form](https://docs.google.com/forms/d/e/1FAIpQLSeFTGEY83NeryEMKe-_485uwdTkguhkJpvNkVRsdpoSyMxIlQ/viewform?usp=sf_link).
+Notifications will be sent on **March 17**.
 
-- [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, deadlines.
+After the meeting (within 2 weeks), upload on e-cost a copy of your flight/train tickets. Note, that the selected participants will have **2 weeks** to accept the invitation sent from e-cost. If you do not accept the invitation on e-cost within the **2 weeks**, you will not be able to be reimbursed. The support will be a flat rate of a little bit more than n*110 where n <= 4 is the number of nights.
 
-- [ ] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
-
-- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
-
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
-
-- [ ] The organizer provides the Grant Holder with the additional data it needs.
-
-### at least 1 month before the meeting:
-
-- [ ] The organizer and the chair check the eligibility of the applicants.
-
-- [ ] Core group meeting to select the participants who will be reimbursed.
-
-- [ ] The organizer informs the applicants of the result.
-
-- [ ] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
-
-- [ ] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
-
-- [ ] The chair sends to the Grant Holder the list of selected participants.
-
-- [ ] The Grant Holder contacts the selected participants to collect the data it needs.
-
-- [ ] The selected participants provide the Grant Holder with the data it needs.
-
-### at least 1 day before the meeting:
-
-- [ ] The chair sends to the organizer the attendance sheets generated by https://e-services.cost.eu/ for every day of the meeting.
-
-- [ ] The organizer prints the attendance sheets sent by the chair.
-
-- [ ] Participants keep a copy of their travel documents and bills.
-
-during the meeting:
-
-- [ ] The organizer asks participants to sign the attendance sheet every day of the meeting.
-
-- [ ] The participants sign the attendance sheet every day they attend the meeting.
-
-- [ ] The organizer takes photos of the event.
-
-- [ ] If possible, the organizer records the talks.
-
-- [ ] The organizer adds photos of the event on https://europroofnet.github.io/.
-
-- [ ] The organizer sends photos to the science communication coordinators.
-
-- [ ] The science communication coordinators advertises the event on social networks.
-
-### after the meeting:
-
-- [ ] The organizer sends the signed attendance sheets to the chair (PDF files must not exceed 2 Mo).
-
-- [ ] The chair adds the attendance sheets and the program of the meeting on https://e-services.cost.eu/.
-
-- [ ] The organizer adds the slides and the videos of the talks on the web site.
-
-- [ ] The organizer adds its claim for LOS on https://e-services.cost.eu/.
-
-- [ ] The selected participants add their reimbursement claims and upload a copy of their travel documents and bills on https://e-services.cost.eu/ within 2 weeks,. Only reimbursement of travels >100 km can be claimed (travels <100 km are included in the daily allowance). Taxis are not reimbursed. The participants shall, in order to see their long-distance travel expenses being reimbursed, attach supporting documents which shall clearly detail: the name of the service provider, the mode of transport taken, the full price paid for the ticket, the name of the passenger if applicable, the travel dates, departure and arrival times (an invoice only showing the amount will not suffice).
-
-- [ ] The Grant Holder checks reimbursement claims.
-
-- [ ] The Grant Holder reimburses the organizer and the invited participants whose claims are valid.
+COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
